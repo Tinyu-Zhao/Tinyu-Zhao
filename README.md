@@ -1,4 +1,4 @@
-![banner](https://github.com/Tinyu-Zhao/Tinyu-Zhao/blob/main/IMG_5884.JPG)
+![banner](https://github.com/Tinyu-Zhao/Tinyu-Zhao/blob/main/IMG.jpg)
 
 ## I'm Tinyu! :wave:
 
