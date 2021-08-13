@@ -2,6 +2,8 @@
 
 ### Hi there :wave:
 
+---
+
 <a href="https://github.com/Tinyu-Zhao"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTinyu-Zhao&longCache=true"/></a>
 
 <a href="https://t.me/Tinyu_Chiu"><img align="right" alt="Telegram" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40skyporker_channel&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DTinyu_Zhao&longCache=true"/></a>
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 
 <details>
 
-<summary>My GitHub Stats</summary>
+<summary>My GitHub</summary>
 
 ![Tinyu's github stats](https://github-readme-stats.vercel.app/api?username=Tinyu-Zhao&show_icons=true&count_private=true&hide=stars&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 </details>
