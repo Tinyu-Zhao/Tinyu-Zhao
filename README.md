@@ -5,8 +5,6 @@
 
 <a href="https://github.com/Tinyu-Zhao"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTinyu-Zhao&longCache=true"/></a>
 
-<a href="https://t.me/Tinyu_Chiu"><img align="right" alt="Telegram" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Tinyu_Zhao&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DTinyu_Zhao&longCache=true"/></a>
-
 <!--
 
 **Tinyu-Zhao/Tinyu-Zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 
 - :hammer_and_pick: C++ .
 - 🪟VS Code & Macos & 🐟
-- :email: `Tinyu.Zhao@gmail.com`
+- :email: `Tinyu.Zhao@gmail.com` :airplane: [Telegram](https://t.me/Tinyu_Chiu) 
 - :peach:
 
 
